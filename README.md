@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hariom kumar
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Software Development Engneering in Test
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 LinkedIn **https://www.linkedin.com/in/hariom-kumar-613387224/**
   
 
